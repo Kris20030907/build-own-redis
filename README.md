@@ -1,5 +1,7 @@
 > 写到前面：此仓库参考 https://www.build-redis-from-scratch.dev/en/aof 实现
 
+> 发现还有其他可扩展的内容，并且有一个系统帮助学习，挺好的：https://app.codecrafters.io/courses/redis/introduction?repo=46bb227a-b3c4-4564-9579-deb734e1e7b6
+
 # Redis Clone
 
 A seris of articles about how to implement an In-Memory Database like Redis in Go.
